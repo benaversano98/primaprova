@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 riga 1 branch fix
+=======
+riga aggiunta branch dev
+>>>>>>> dev
